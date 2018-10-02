@@ -36,4 +36,4 @@ if(photocellReading > 500)
 
 myservo.write(val);
 delay(15);
-} 
+}
